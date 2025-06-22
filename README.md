@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Andrei Vergara</h1>
-<h3 align="center">A passionate data analyst from New Zealand!</h3>
+<h3 align="center"> 📊 A passionate data analyst from New Zealand!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreiverg&label=Profile%20views&color=0e75b6&style=flat" alt="andreiverg" /> </p>
 
