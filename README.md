@@ -15,7 +15,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/andreiverg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreiverg" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreiverg&show_icons=true&locale=en&layout=compact" alt="andreiverg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreiverg&" alt="andreiverg" /></p>
