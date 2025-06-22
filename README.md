@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreiverg&label=Profile%20views&color=0e75b6&style=flat" alt="andreiverg" /> </p>
 
 - As a Computer Science and Statistics student at the University of Auckland, I'm passionate about leveraging data to solve real-world problems. My academic journey has equipped me with a strong foundation in both theoretical concepts and practical applications.
+- Currently, I'm focusing on projects that combine statistical analysis with software engineering to create meaningful insights and solutions. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
